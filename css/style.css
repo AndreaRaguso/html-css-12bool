@@ -1,0 +1,29 @@
+
+.box{
+    background-color: rgb(17, 124, 224);
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.nest{
+    background-color: rgb(16, 233, 34);
+    border: 1px solid rgb(17, 124, 224);
+    color: white;
+    text-align: center;
+    height: 60px;
+    padding-top: 20px;
+}
+
+.box2{
+    background-color: rgb(17, 124, 224);
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+
+.row{
+    padding-bottom: 30px;
+}
